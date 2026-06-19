@@ -1,0 +1,107 @@
+{
+  "timestamp": "2026-06-19T05:45:44.229Z",
+  "run_time": "0:00 CT",
+  "new_items": [
+    {
+      "type": "announcement",
+      "title": "'var Gp=function(C,Y,D,q,n,V,y,A,U){{U=16;while(U!=75)if(U==16)U=73;else if(U==11)this[this+\"\"]=this",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "c))break a;c=c[f]}a=a[a.length-1];h=c[a];b=b(h);b!=h&&b!=null&&t(c,a,{configurable:!0,writable:!0,va",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "this;this.i==null?l.j(k):this.i.push(k);this.D=!0};f.resolve=c;f.reject=function(d){return new f(fun",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "var B=this||self;function F(){var a,b;return(a=window.performance)==null?void 0:(b=a.getEntriesByTyp",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "b>0&&a.qsubts!==b&&H(\"qd\",a.qsubts-b));e=a.t.sgls;e>=0&&(f=b=c.sgl,e===0?f=0:h>e&&(f=h-e),b!==void 0",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "(m+=\"&gemrid=\"+a);n+=m;typeof navigator.sendBeacon===\"function\"?navigator.sendBeacon(n,\"\"):google.lo",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "var P=function(a){this.i=a};P.prototype.toString=function(){return this.i};var Q=function(a){this.N=",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "function ca(){var a={};if(!window.td)return a;var b=\"n\",c=window.td.ns,h=void 0,f=void 0;window.st&&",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "function T(a){var b=eid,c=new K;M(c,\"sg_ss\",encodeURIComponent(a));M(c,\"sei\",b);U(c.toString())}func",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "function W(a){if(window.pr)window.pr(a);else{a:{var b=b===void 0?da:b;if(a instanceof P)b=a;else{for",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "function ja(){V(\"bsst\");fa(function(a){V(\"bset\");var b=challenge_version,c=cbs;a=b>0?\"B.\"+b+\".\"+c+\".",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "'var Gp=function(C,Y,D,q,n,V,y,A,U){{U=16;while(U!=75)if(U==16)U=73;else if(U==11)this[this+\"\"]=this",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "c))break a;c=c[f]}a=a[a.length-1];h=c[a];b=b(h);b!=h&&b!=null&&t(c,a,{configurable:!0,writable:!0,va",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "this;this.i==null?l.j(k):this.i.push(k);this.D=!0};f.resolve=c;f.reject=function(d){return new f(fun",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "var B=this||self;function F(){var a,b;return(a=window.performance)==null?void 0:(b=a.getEntriesByTyp",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "b>0&&a.qsubts!==b&&H(\"qd\",a.qsubts-b));e=a.t.sgls;e>=0&&(f=b=c.sgl,e===0?f=0:h>e&&(f=h-e),b!==void 0",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "(m+=\"&gemrid=\"+a);n+=m;typeof navigator.sendBeacon===\"function\"?navigator.sendBeacon(n,\"\"):google.lo",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "var P=function(a){this.i=a};P.prototype.toString=function(){return this.i};var Q=function(a){this.N=",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "function ca(){var a={};if(!window.td)return a;var b=\"n\",c=window.td.ns,h=void 0,f=void 0;window.st&&",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    },
+    {
+      "type": "announcement",
+      "title": "function T(a){var b=eid,c=new K;M(c,\"sg_ss\",encodeURIComponent(a));M(c,\"sei\",b);U(c.toString())}func",
+      "timestamp": "2026-06-19T05:45:44.229Z"
+    }
+  ],
+  "baseline_updated": "2026-06-19T05:45:44.229Z"
+}
