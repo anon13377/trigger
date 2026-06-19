@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(cd \"c:\\\\Users\\\\Administrator\\\\Documents\\\\Project 6.17.26\" ; $stats = @\\(@{label='Metric A'; value='42%'; context='YoY growth'}, @{label='Metric B'; value='$2.5B'; context='Market size'}, @{label='Metric C'; value='127M'; context='Active users'}\\) ; python tools/generate_infographic.py \\($stats | ConvertTo-Json -Compress\\) | Out-File -FilePath \".tmp\\\\test_infographic.html\" -Encoding UTF8 ; Write-Output \"Infographic generated to .tmp/test_infographic.html\")",
+      "Bash(mkdir -p \"./.claude/skills/skill-builder\" && ls -la ./.claude/)",
+      "Bash(mkdir -p \"./.claude/skills/parallel-keywords\" && echo \"Directory created\")",
+      "Bash(mkdir -p ~/.claude/skills/parallel-keywords)",
+      "Bash(cp \"./.claude/skills/parallel-keywords/SKILL.md\" ~/.claude/skills/parallel-keywords/SKILL.md)",
+      "Bash(rm -rf \"./.claude/skills/parallel-keywords\")",
+      "Read(//c/Users/Administrator/.claude/skills/parallel-keywords/**)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Skill(schedule)",
+      "Skill(schedule:*)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Administrator\\Documents\\Project 6.17.26\\.claude\\skills"
+    ]
+  }
+}

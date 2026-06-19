@@ -1,0 +1,30 @@
+# Environment and Credentials
+.env
+.env.local
+.env.*.local
+credentials.json
+token.json
+*.pem
+*.key
+
+# Temporary files
+.tmp/
+*.tmp
+*.temp
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE and OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Dependencies
+venv/
+env/
+node_modules/
