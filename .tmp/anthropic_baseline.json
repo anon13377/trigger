@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T05:52:01.399Z",
+  "last_updated": "2026-06-23T20:00:56.845Z",
   "known_urls": [
     "https://www.anthropic.com/news/fable-mythos-access",
     "https://www.anthropic.com/news/claude-corps",
@@ -29,7 +29,8 @@
     "https://www.anthropic.com/research/attack-navigator",
     "https://www.anthropic.com/research/coding-agents-social-sciences",
     "https://www.anthropic.com/research/glasswing-initial-update",
-    "https://www.anthropic.com/research/exploit-evals"
+    "https://www.anthropic.com/research/exploit-evals",
+    "https://www.anthropic.com/news/introducing-claude-tag"
   ],
-  "total_tracked": 29
+  "total_tracked": 30
 }
