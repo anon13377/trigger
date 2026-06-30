@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-06-30T20:01:26.283Z",
+  "run_time": "3pm CT",
+  "new_articles": [
+    {
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "date": "unknown",
+      "source": "news"
+    },
+    {
+      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produce",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "date": "unknown",
+      "source": "news"
+    }
+  ],
+  "total_checked": 28
+}
