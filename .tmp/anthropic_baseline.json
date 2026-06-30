@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T17:01:54.505Z",
+  "last_updated": "2026-06-30T20:01:26.283Z",
   "known_urls": [
     "https://www.anthropic.com/news/fable-mythos-access",
     "https://www.anthropic.com/news/claude-corps",
@@ -31,7 +31,9 @@
     "https://www.anthropic.com/research/glasswing-initial-update",
     "https://www.anthropic.com/research/exploit-evals",
     "https://www.anthropic.com/news/introducing-claude-tag",
-    "https://www.anthropic.com/research/economic-index-june-2026-report"
+    "https://www.anthropic.com/research/economic-index-june-2026-report",
+    "https://www.anthropic.com/news/claude-sonnet-5",
+    "https://www.anthropic.com/news/claude-science-ai-workbench"
   ],
-  "total_tracked": 31
+  "total_tracked": 33
 }
