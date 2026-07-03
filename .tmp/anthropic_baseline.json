@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T11:01:15.466Z",
+  "last_updated": "2026-07-03T11:01:08.751Z",
   "known_urls": [
     "https://www.anthropic.com/news/fable-mythos-access",
     "https://www.anthropic.com/news/claude-corps",
@@ -34,7 +34,8 @@
     "https://www.anthropic.com/research/economic-index-june-2026-report",
     "https://www.anthropic.com/news/claude-sonnet-5",
     "https://www.anthropic.com/news/claude-science-ai-workbench",
-    "https://www.anthropic.com/news/redeploying-fable-5"
+    "https://www.anthropic.com/news/redeploying-fable-5",
+    "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
   ],
-  "total_tracked": 34
+  "total_tracked": 35
 }
