@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-07-06T20:02:21.696Z",
+  "run_time": "3pm CT",
+  "new_articles": [
+    {
+      "title": "Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "date": "unknown",
+      "source": "news"
+    },
+    {
+      "title": "A global workspace in language modelsInterpretabilityJul 6, 2026New interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "date": "unknown",
+      "source": "research"
+    }
+  ],
+  "total_checked": 26
+}
