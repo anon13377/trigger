@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T11:01:24.423Z",
+  "last_updated": "2026-07-09T14:01:30.370Z",
   "known_urls": [
     "https://www.anthropic.com/news/fable-mythos-access",
     "https://www.anthropic.com/news/claude-corps",
@@ -38,7 +38,8 @@
     "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
     "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
     "https://www.anthropic.com/research/global-workspace",
-    "https://www.anthropic.com/research/off-switch-dual-use"
+    "https://www.anthropic.com/research/off-switch-dual-use",
+    "https://www.anthropic.com/news/reflect-with-claude"
   ],
-  "total_tracked": 38
+  "total_tracked": 39
 }
