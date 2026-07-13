@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:00:47.918Z",
+  "last_updated": "2026-07-13T20:01:56.028Z",
   "known_urls": [
     "https://www.anthropic.com/news/fable-mythos-access",
     "https://www.anthropic.com/news/claude-corps",
@@ -43,7 +43,8 @@
     "https://www.anthropic.com/news/ben-bernanke",
     "https://www.anthropic.com/news/hard-questions",
     "https://www.anthropic.com/news/ust-claude",
-    "https://www.anthropic.com/research/claude-plays-robotics"
+    "https://www.anthropic.com/research/claude-plays-robotics",
+    "https://www.anthropic.com/research/claude-values-models-languages"
   ],
-  "total_tracked": 43
+  "total_tracked": 44
 }
