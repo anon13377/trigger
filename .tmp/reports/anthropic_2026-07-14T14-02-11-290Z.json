@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-07-14T14:02:11.290Z",
+  "run_time": "9am CT",
+  "new_articles": [
+    {
+      "title": "Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "date": "unknown",
+      "source": "news"
+    },
+    {
+      "title": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "date": "unknown",
+      "source": "research"
+    }
+  ],
+  "total_checked": 26
+}
