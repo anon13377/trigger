@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T14:02:11.290Z",
+  "last_updated": "2026-07-14T17:01:40.228Z",
   "known_urls": [
     "https://www.anthropic.com/news/fable-mythos-access",
     "https://www.anthropic.com/news/claude-corps",
@@ -46,7 +46,8 @@
     "https://www.anthropic.com/research/claude-plays-robotics",
     "https://www.anthropic.com/research/claude-values-models-languages",
     "https://www.anthropic.com/news/canadian-ai-research",
-    "https://www.anthropic.com/research/how-canada-uses-claude"
+    "https://www.anthropic.com/research/how-canada-uses-claude",
+    "https://www.anthropic.com/news/claude-for-teachers"
   ],
-  "total_tracked": 46
+  "total_tracked": 47
 }
